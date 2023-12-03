@@ -505,7 +505,7 @@
             {
                 "kind": "right_probe",
                 "length": 8,
-                "offset": 68,
+                "offset": 66,
                 "read_type": "R2",
                 "whitelist": {
                     "name": "probe-barcodes-fixed-rna-profiling"
